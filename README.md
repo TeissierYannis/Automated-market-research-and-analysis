@@ -1,5 +1,6 @@
 [![Python](https://img.shields.io/badge/Python_Version-3.9-blue.svg)](https://docs.python.org/3/)
-[![Type](https://img.shields.io/badge/Training_Website-blue.svg)](#)
+[![Type](https://img.shields.io/badge/Data_Gathering-blue.svg)](#)
+[![Type](https://img.shields.io/badge/Machine_Learning-blue.svg)](#)
 
 # Table of Contents
 
